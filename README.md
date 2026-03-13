@@ -13,7 +13,7 @@
 
 ## Hi, I'm Luwam Major Kefali
 
-**ML Scientist · Researcher · MSc AI @ University of Bologna**
+**ML Engineer & Researcher · MSc AI @ University of Bologna**
 
 I build deep learning systems end-to-end — from mathematical foundations to production infrastructure. My research sits at the intersection of **multimodal AI**, **fairness and bias auditing**, and **NLP for low-resource languages**.
 
