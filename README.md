@@ -55,6 +55,11 @@ LSTM and Transformer pipelines for multi-satellite orbital forecasting on NASA/J
 
 → [Project](./05-research-projects/orbital-prediction)
 
+### Book Instance Detection + Pet Classification
+Two-pipeline computer vision project. **Classical:** CLAHE + bilateral filter preprocessing, SIFT feature extraction, FLANN matching with Lowe's ratio test, RANSAC homography — detected **61 instances against a ground truth of 60**. **Deep learning:** custom PetResNet_v1 (~2.8M params) with Mixup augmentation (69.58%); controlled ablation across 7 architectural variables (BatchNorm, skip connections, depth, weight decay, dropout, scheduler); ResNet-18 transfer learning up to **89.49%** across three fine-tuning regimes. All experiments tracked in W&B.
+
+→ [Project](./05-research-projects/book-detection-pet-classification)
+
 ### Hybrid Cognitive Robotic System
 Sense-Plan-Act architecture in ROS2/Gazebo: symbolic HTN planner with fuzzy reactive behaviours. OWL knowledge graph with owlrl. Failure detection and recovery for real-world uncertainty.
 
