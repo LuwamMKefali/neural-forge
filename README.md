@@ -3,11 +3,11 @@
 > *Forging intelligence from first principles — theory, research, and production.*
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)  
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21F?logo=huggingface&logoColor=black)](https://huggingface.co)
-[![W&B](https://img.shields.io/badge/Weights_%26_Biases-Tracked-FFBE00?logo=weightsandbiases&logoColor=black)](https://wandb.ai)
+[![W&B](https://img.shields.io/badge/Weights_%26_Biases-Tracked-FFBE00?logo=weightsandbiases&logoColor=black)](https://wandb.ai)   
 [![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
-[![Status](https://img.shields.io/badge/Status-Active_Research-4ADE80)](.)
+[![Status](https://img.shields.io/badge/Status-Active_Research-4ADE80)](.)  
 
 ---
 
@@ -105,8 +105,8 @@ I am currently running an intensive 90-day programme to deepen my theoretical fo
 - [ ] Phase 2: Research methods — paper reading, reproduction, extension
 - [ ] Phase 3: Portfolio, visibility, applications
 
-**Commit goal:** Every day. No exceptions.
+**Commit goal:** No exceptions
 
 ---
 
-*Bologna, Italy · March 2026*
+*Bologna, Italy · March 2026* 
